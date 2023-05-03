@@ -164,9 +164,9 @@ replicate(n_sim, {
 
 h. Jelaskan banyak kematian akibat kanker tulang berdasarkan simulasi Anda. 
 Bandingkan jawaban pada pertanyaan 2d dengan hasil simulasi Anda.
-```
-Simulasi menunjukkan bahwa banyak kematian akibat kanker tulang dapat bervariasi secara signifikan dari satu sampel ke sampel lainnya, tetapi sebagian besar simulasi menghasilkan jumlah kematian yang lebih dari 4, yang sesuai dengan hasil analisis probabilitas sebelumnya. Kedua metode ini mengindikasikan kemungkinan besar akan ada lebih dari 4 kematian akibat kanker tulang di pabrik ban dalam 20 tahun ke depan.
-```
+
+- Simulasi menunjukkan bahwa banyak kematian akibat kanker tulang dapat bervariasi secara signifikan dari satu sampel ke sampel lainnya, tetapi sebagian besar simulasi menghasilkan jumlah kematian yang lebih dari 4, yang sesuai dengan hasil analisis probabilitas sebelumnya. Kedua metode ini mengindikasikan kemungkinan besar akan ada lebih dari 4 kematian akibat kanker tulang di pabrik ban dalam 20 tahun ke depan.
+
 
 ##### Halaman Kerja Nomor 2
 ![image](https://user-images.githubusercontent.com/114417418/236025262-1f04d52e-7abb-4276-88e7-e7b0a3c254da.png)
