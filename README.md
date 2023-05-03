@@ -79,6 +79,9 @@ hist(bayi_laki, breaks=seq(-0.5, n+0.5, 1), main="Histogram Banyak Bayi Laki-lak
 ```
 ![1f](https://user-images.githubusercontent.com/114417418/236019252-6067b5be-e0f0-4b44-8018-0959036ca32d.png)
 
+##### Halaman Kerja Nomor 1
+![image](https://user-images.githubusercontent.com/114417418/236024827-b7be9ce1-855e-49ba-9782-b3ab1f7d3279.png)
+
 ### Soal 2
 > Misalkan banyak kematian karena kanker tulang untuk seluruh pekerja di pabrik 
 ban dalam 20 tahun ke depan adalah 1,8.
@@ -165,6 +168,9 @@ Bandingkan jawaban pada pertanyaan 2d dengan hasil simulasi Anda.
 Simulasi menunjukkan bahwa banyak kematian akibat kanker tulang dapat bervariasi secara signifikan dari satu sampel ke sampel lainnya, tetapi sebagian besar simulasi menghasilkan jumlah kematian yang lebih dari 4, yang sesuai dengan hasil analisis probabilitas sebelumnya. Kedua metode ini mengindikasikan kemungkinan besar akan ada lebih dari 4 kematian akibat kanker tulang di pabrik ban dalam 20 tahun ke depan.
 ```
 
+##### Halaman Kerja Nomor 2
+![image](https://user-images.githubusercontent.com/114417418/236025262-1f04d52e-7abb-4276-88e7-e7b0a3c254da.png)
+
 ### Soal 3
 > Diketahui nilai x = 3 dan v = 10. Tentukan:
 a. Fungsi probabilitas dari distribusi Chi-Square.
@@ -206,6 +212,9 @@ mean_chisq
 var_chisq
 ```
 ![3c](https://user-images.githubusercontent.com/114417418/236020508-64324be9-9853-4ea6-9b8b-ef955937491c.png)
+
+##### Halaman Kerja Nomor 3
+![image](https://user-images.githubusercontent.com/114417418/236025544-c6d7570d-3c23-48da-bd52-88a9d2d4f582.png)
 
 ### Soal 4
 > Diketahui data bangkitan acak sebanyak 100 dengan mean = 45 dan sd = 5. 
@@ -269,6 +278,9 @@ c. Nilai varian (σ²) dari hasil data bangkitan acak distribusi Normal.
 varian <- var(data)
 ```
 ![4c](https://user-images.githubusercontent.com/114417418/236020579-6156f990-0bfc-4fd8-a95b-1de16d5420d6.png)
+
+##### Halaman Kerja Nomor 4
+![image](https://user-images.githubusercontent.com/114417418/236025816-99c0b7e5-f247-4e6b-9210-ed43570683ef.png)
 
 ### Soal 5
 > Kerjakanlah menggunakan distribusi T-Student.
@@ -379,3 +391,6 @@ t_neg
 t_pos
 ```
 ![5h](https://user-images.githubusercontent.com/114417418/236021460-56bbe78c-fad3-480a-aa09-816ac20c10ff.png)
+
+##### Halaman Kerja Nomor 5
+![image](https://user-images.githubusercontent.com/114417418/236026015-13445cc1-e5e3-4ffc-8503-e6607c609c6c.png)
