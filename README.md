@@ -12,7 +12,7 @@
 - [Soal4](README.md###Soal4)
 - [Soal5](README.md###Soal5)
 
-### Soal 1
+### Soal1
 > Probabilitas seorang bayi yang baru lahir berjenis kelamin laki-laki adalah 0,488. 
 Jika kita asumsikan bahwa dalam satu hari di rumah sakit terdapat 10 kelahiran, 
 maka:
@@ -82,7 +82,7 @@ hist(bayi_laki, breaks=seq(-0.5, n+0.5, 1), main="Histogram Banyak Bayi Laki-lak
 ##### Halaman Kerja Nomor 1
 ![image](https://user-images.githubusercontent.com/114417418/236024827-b7be9ce1-855e-49ba-9782-b3ab1f7d3279.png)
 
-### Soal 2
+### Soal2
 > Misalkan banyak kematian karena kanker tulang untuk seluruh pekerja di pabrik 
 ban dalam 20 tahun ke depan adalah 1,8.
 
